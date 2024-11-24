@@ -237,7 +237,7 @@ export default function EmbeddedPage() {
                 <div className="hero-left_container">
                   <img
                     className="pointer"
-                    src="images/pointer-icon.svg"
+                    src="/images/pointer-icon.svg"
                     placeholder="pointer-icon"
                   />
                   <p className="para1">Stake Your Starknet Tokens</p>
@@ -278,13 +278,13 @@ export default function EmbeddedPage() {
                 <div className="step">
                   <div className="step-marker">
                     <img
-                      src="images/step-marker.svg"
+                      src="/images/step-marker.svg"
                       alt="step-marker"
                       placeholder="step-marker"
                     />
                   </div>
                   <div className="step-line">
-                    <img src="images/line.svg" alt="line" placeholder="line" />
+                    <img src="/images/line.svg" alt="line" placeholder="line" />
                   </div>
                   <div className="step-content1">
                     <h2>Stake</h2>
@@ -294,13 +294,13 @@ export default function EmbeddedPage() {
                 <div className="step">
                   <div className="step-marker">
                     <img
-                      src="images/step-marker.svg"
+                      src="/images/step-marker.svg"
                       alt="step-marker"
                       placeholder="step-marker"
                     />
                   </div>
                   <div className="step-line">
-                    <img src="images/line.svg" alt="line" placeholder="line" />
+                    <img src="/images/line.svg" alt="line" placeholder="line" />
                   </div>
                   <div className="step-content2">
                     <h2>Receive</h2>
@@ -310,7 +310,7 @@ export default function EmbeddedPage() {
                 <div className="step">
                   <div className="step-marker">
                     <img
-                      src="images/step-marker.svg"
+                      src="/images/step-marker.svg"
                       alt="step-marker"
                       placeholder="step-marker"
                     />
@@ -350,7 +350,7 @@ export default function EmbeddedPage() {
                 </h2>
                 <img
                   className="services-pointer position-absolute"
-                  src="images/pointer-icon.svg"
+                  src="/images/pointer-icon.svg"
                   placeholder="pointer-icon"
                 />
               </div>
@@ -478,7 +478,7 @@ export default function EmbeddedPage() {
                 </h2>
                 <img
                   className="business-pointer"
-                  src="images/pointer-icon.svg"
+                  src="/images/pointer-icon.svg"
                   placeholder="pointer-icon"
                 />
               </div>
@@ -521,7 +521,7 @@ export default function EmbeddedPage() {
               <h1>Frequently Asked Questions</h1>
               <img
                 className="question-pointer"
-                src="images/pointer-icon.svg"
+                src="/images/pointer-icon.svg"
                 placeholder="pointer-icon"
               />
               <div className="faq-list">
@@ -530,12 +530,12 @@ export default function EmbeddedPage() {
                     What Is Starknet Staking?
                     <img
                       className="faq-icon plus"
-                      src="images/plus.svg"
+                      src="/images/plus.svg"
                       placeholder="plus"
                     />
                     <img
                       className="faq-icon minus"
-                      src="images/minus.svg"
+                      src="/images/minus.svg"
                       placeholder="minus"
                     />
                   </div>
@@ -552,12 +552,12 @@ export default function EmbeddedPage() {
                     What Are stSTRK Tokens?
                     <img
                       className="faq-icon plus"
-                      src="images/plus.svg"
+                      src="/images/plus.svg"
                       placeholder="plus"
                     />
                     <img
                       className="faq-icon minus"
-                      src="images/minus.svg"
+                      src="/images/minus.svg"
                       placeholder="minus"
                     />
                   </div>
@@ -568,12 +568,12 @@ export default function EmbeddedPage() {
                     How Are Staking Rewards Calculated?
                     <img
                       className="faq-icon plus"
-                      src="images/plus.svg"
+                      src="/images/plus.svg"
                       placeholder="plus"
                     />
                     <img
                       className="faq-icon minus"
-                      src="images/minus.svg"
+                      src="/images/minus.svg"
                       placeholder="minus"
                     />
                   </div>
@@ -584,12 +584,12 @@ export default function EmbeddedPage() {
                     Is There A Minimum Amount To Stake?
                     <img
                       className="faq-icon plus"
-                      src="images/plus.svg"
+                      src="/images/plus.svg"
                       placeholder="plus"
                     />
                     <img
                       className="faq-icon minus"
-                      src="images/minus.svg"
+                      src="/images/minus.svg"
                       placeholder="minus"
                     />
                   </div>
@@ -600,12 +600,12 @@ export default function EmbeddedPage() {
                     Can I Unstake My Tokens Anytime?
                     <img
                       className="faq-icon plus"
-                      src="images/plus.svg"
+                      src="/images/plus.svg"
                       placeholder="plus"
                     />
                     <img
                       className="faq-icon minus"
-                      src="images/minus.svg"
+                      src="/images/minus.svg"
                       placeholder="minus"
                     />
                   </div>

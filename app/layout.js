@@ -21,11 +21,11 @@ export default function RootLayout({ children }) {
         <meta property="og:title" content="starkstake_" />
         <meta
           property="og:description"
-          content="Experience seamless liquid staking with stakestark_. Maximize your rewards, retain liquidity, and unlock the power of DeFi. Stake STRK, receive stSTRK, and trade anytime—powered by Starknet."
+          content="Experience seamless liquid staking with starkstake_. Maximize your rewards, retain liquidity, and unlock the power of DeFi. Stake STRK, receive stSTRK, and trade anytime—powered by Starknet."
         />
         <meta
           property="og:image"
-          content="https://stakestark.com/images/logo.svg"
+          content="https://starkstake.com/images/logo.svg"
         />
         <meta property="og:url" content="https://starkstake.com" />
         <meta property="og:type" content="website" />
@@ -38,7 +38,7 @@ export default function RootLayout({ children }) {
         <link
           rel="icon"
           type="image/svg+xml"
-          href="images/SN-Symbol-Flat colour.svg"
+          href="/images/SN-Symbol-Flat colour.svg"
         />
         <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js"></script>
